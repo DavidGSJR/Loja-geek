@@ -75,22 +75,17 @@ export default function Footer() {
           </div>
         </div>
         <div className="footer_contatos">
-          <p>Desenvolvido por <span className="contatos_nome">Allan Ribeiro Santos</span> 2022</p>
+          <p>Desenvolvido por <span className="contatos_nome">David</span> 2024</p>
           <p>Meus contatos:</p>
           <p className="contatos_redes_sociais">
             <span className="social_github">
-              <a href='https://github.com/AllanRibeiroSantos' alt='Media social Github'>
+              <a href='https://github.com/DavidGSJR' alt='Media social Github'>
                 <BsGithub />
               </a>
             </span>
             <span className="social_linkedin">
-              <a href='https://www.linkedin.com/in/allanribeirosantos/' alt='Media social Linkedin'>
+              <a href='https://www.linkedin.com/in/david-junior99/' alt='Media social Linkedin'>
                 <BsLinkedin />
-              </a>
-            </span>
-            <span className="social_youtube">
-              <a href='https://www.youtube.com/channel/UCzQ7Tlul19JBSuAMOl_h6XA' alt='Media social Youtube'>
-                <BsYoutube />
               </a>
             </span>
           </p>
