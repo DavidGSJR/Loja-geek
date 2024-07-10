@@ -24,10 +24,6 @@ Também deve conter:
 - Área de usuário, pós login;
 	- Área para edição de produtos;
 
-### Projeto: Ilustrações
-
-**Ilustração do projeto, de forma resumida:**
-<div align="center"><img src="https://user-images.githubusercontent.com/61354355/171237730-db0d730d-cad6-4c0a-9ded-e8bad7d99af2.gif"></div><br>
 
 **Desafios**
 
